@@ -4,6 +4,7 @@
 **NIM:** 24106050011
 **Kelas:** Informatika A
 
+
 ## Deskripsi
 Program **Java** dan **Python** untuk mengelola data mahasiswa (NIM, Nama, Jenis Kelamin) menggunakan struktur data **Singly Linked List** secara manual (menggunakan Class Node sendiri, tanpa library `LinkedList` bawaan).
 
