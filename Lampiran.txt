@@ -1,0 +1,11 @@
+1. Prompt Utama (Perancangan Algoritma & Struktur Data)
+
+"Implementasikan struktur data Singly Linked List untuk studi kasus data mahasiswa (NIM, Nama, dan Jenis Kelamin) secara manual tanpa library bawaan. Buat implementasi dalam bahasa Java dengan fitur CRUD lengkap (Insert/Delete di awal, akhir, posisi tertentu, dan by NIM) serta validasi input ketat (NIM harus angka & unik, Nama harus unik)."
+
+2. Prompt Implementasi Python (Cross-Language Implementation)
+
+"Buat implementasi algoritma Singly Linked List yang setara (equivalent) menggunakan bahasa Python. Pastikan struktur Class Node dan logika pointer (next) berjalan konsisten dengan versi Java untuk perbandingan struktur data antar bahasa."
+
+3. Prompt Debugging & Optimasi (Java Environment)
+
+"Optimalkan kode Java dengan menghapus ketergantungan pada import statement (gunakan fully qualified class name untuk Scanner) dan hilangkan deklarasi package agar program bersifat portable (bisa dijalankan langsung dari command line tanpa error path/package)."
