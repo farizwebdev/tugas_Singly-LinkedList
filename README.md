@@ -1,8 +1,8 @@
 # Tugas Struktur Data - Singly Linked List (Data Mahasiswa)
 
 **Nama:** Fariz Husain Albar  
-**NIM:** 24106050011
-**Kelas:** Informatika A
+**NIM:** 24106050011  
+**Kelas:** Informatika A  
 
 
 ## Deskripsi
